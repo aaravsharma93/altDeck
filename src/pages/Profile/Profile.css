@@ -1,0 +1,11 @@
+.profile_outer_container {
+    display: flex;
+    height: 80vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    color: white;
+    background-color: #000;
+    font-size: large;
+}

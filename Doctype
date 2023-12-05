@@ -1,0 +1,17 @@
+baseURI: "https://phantom.app/"
+childNodes: NodeList []
+firstChild: null
+isConnected: true
+lastChild: null
+name: "html"
+nextSibling: html
+nodeName: "html"
+nodeType: 10
+nodeValue: null
+ownerDocument: document
+parentElement: null
+parentNode: document
+previousSibling: null
+publicId: ""
+systemId: ""
+textContent: null
